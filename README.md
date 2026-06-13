@@ -1,2 +1,2 @@
 # JpType
-A Japanese keyboard typing website with reference materials.
+A Japanese kana typing website. Supports hirigana, katakana. Kanji is work in progress.
